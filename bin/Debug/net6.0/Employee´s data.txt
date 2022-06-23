@@ -1,0 +1,29 @@
+
+
+
+The Document is:...................... 1014477092
+The First Name is:.................... Yeslhan
+The Last Name is:..................... Ortiz 
+The Salary is:........................ 1990000
+The Worked Days is:................... 19
+The Devengado is:..................... 1260333.3333333333
+The Transport Auxiliar is:............ 74208.93333333333
+The Health is:........................ 50413.33333333333
+The Pension is:....................... 50413.33333333333
+------------------
+The Total Payroll is:................. 1233715.6
+
+
+The Document is:...................... 1014477093
+The First Name is:.................... Stiven
+The Last Name is:..................... Castro
+The Salary is:........................ 1800000
+The Worked Days is:................... 19
+The Devengado is:..................... 1140000
+The Transport Auxiliar is:............ 42051.72888888889
+The Health is:........................ 45600
+The Pension is:....................... 45600
+------------------
+The Total Payroll is:................. 1090851.7288888888
+
+
